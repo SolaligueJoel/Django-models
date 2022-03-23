@@ -62,7 +62,6 @@ db.sqlite3
 db.sqlite3-journal
 /marvel/e_commerce/migrations
 
-
 # Flask stuff:
 instance/
 .webassets-cache
@@ -136,3 +135,4 @@ dmypy.json
 
 # Image excludes
 images/
+
